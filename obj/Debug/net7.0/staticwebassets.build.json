@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "31Y/O562DPzPzKEql8JIFWu3mHF4KNKiNjuwFks3VXM=",
+  "Source": "Assigment_Portafolio-II",
+  "BasePath": "_content/Assigment_Portafolio-II",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assigment_Portafolio-II\\wwwroot",
+      "Source": "Assigment_Portafolio-II",
+      "ContentRoot": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assigment_Portafolio-II\\wwwroot\\",
+      "BasePath": "_content/Assigment_Portafolio-II",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assigment_Portafolio-II\\wwwroot\\css\\style.css",
+      "SourceId": "Assigment_Portafolio-II",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assigment_Portafolio-II\\wwwroot\\",
+      "BasePath": "_content/Assigment_Portafolio-II",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assigment_Portafolio-II\\wwwroot\\css\\styleContact.css",
+      "SourceId": "Assigment_Portafolio-II",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assigment_Portafolio-II\\wwwroot\\",
+      "BasePath": "_content/Assigment_Portafolio-II",
+      "RelativePath": "css/styleContact.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styleContact.css"
+    },
+    {
+      "Identity": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assigment_Portafolio-II\\wwwroot\\css\\styleProject.css",
+      "SourceId": "Assigment_Portafolio-II",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assigment_Portafolio-II\\wwwroot\\",
+      "BasePath": "_content/Assigment_Portafolio-II",
+      "RelativePath": "css/styleProject.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styleProject.css"
+    },
+    {
+      "Identity": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assigment_Portafolio-II\\wwwroot\\img\\Avatar_1.jpeg",
+      "SourceId": "Assigment_Portafolio-II",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Aprendiendo a programar\\2. C# .NET Coding Dojo\\MVC\\Assigment_Portafolio-II\\wwwroot\\",
+      "BasePath": "_content/Assigment_Portafolio-II",
+      "RelativePath": "img/Avatar_1.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Avatar_1.jpeg"
+    }
+  ]
+}
